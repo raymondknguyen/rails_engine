@@ -20,6 +20,7 @@ gem 'puma', '~> 3.11'
 # gem 'mini_magick', '~> 4.8'
 gem 'rspec-rails'
 gem 'simplecov', require: false, group: :test
+gem 'fast_jsonapi'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
